@@ -1,6 +1,6 @@
 {
     "supported-client": "version-5b077c09380f4fe6",
     "exploit-version": "1.0.0",
-    "bootstrapper": "https://getindigo.xyz/download/static/files/bootstrapper.exe",
-    "version-url": "https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/live"
+    "exploit-folder": "https://getindigo.xyz/download/static/files/indigobeta.zip",
+    "exploit-module": "https://getindigo.xyz/download/static/files/indigo.dll"
 }

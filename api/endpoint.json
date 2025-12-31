@@ -1,6 +1,7 @@
 {
     "supported-client": "version-5b077c09380f4fe6",
-    "exploit-version": "1.0.0",
+    "ui-version": "1.0.0",
+    "module-version": "1.0.0",
     "exploit-folder": "https://getindigo.xyz/download/static/files/indigobeta.zip",
     "exploit-module": "https://getindigo.xyz/download/static/files/indigo.dll"
 }
